@@ -23,8 +23,15 @@ Name: Dev Brahambhatt
 ### Issue 1
 Learning how to navigate the Cursor interface and open a project folder.
 
+Issue 2
+Could not locate the Claude Code and Codex add-ons in the current Cursor Marketplace.
+
+
 ### Solution
 Used the Open Folder option and created a dedicated workspace.
+
+Searched the Cursor Marketplace and explored available plugin categories. The current Cursor interface appears different from the instructions provided.
+
 
 ## Outcome
 
