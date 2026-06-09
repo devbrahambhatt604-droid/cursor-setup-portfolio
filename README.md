@@ -8,8 +8,6 @@ Name: Dev Brahambhatt
 
 - Cursor IDE
 - GitHub
-- Claude Code
-- Codex
 
 ## Steps Completed
 
